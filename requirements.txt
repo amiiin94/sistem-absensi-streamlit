@@ -4,3 +4,7 @@ numpy
 opencv-python
 mtcnn
 keras-facenet
+tensorflow
+libgl1
+update
+streamlit
